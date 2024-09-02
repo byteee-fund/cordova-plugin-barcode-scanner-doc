@@ -16,6 +16,11 @@
 cordova plugin add ../cordova-plugin-barcode-scanner 
 ```
 
+另外可自定义相机描述
+
+```shell
+cordova plugin add ../cordova-plugin-barcode-scanner --variable CAMERA_USAGE_DESCRIPTION="using camera to scan barcode"
+```
 
 ## 移除插件
 

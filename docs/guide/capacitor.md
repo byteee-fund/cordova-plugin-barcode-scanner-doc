@@ -19,3 +19,10 @@ Since Capacitor does not support Hook, you need to manually add the `tools` tag
 ```
 
 ![img](/public/images/android.png)
+
+
+### Modify Xcode Info.plist
+
+Add the `NSCameraUsageDescription` key and your description to the Xcode Info.plist
+
+![img](/public/images/xcode-1.png)

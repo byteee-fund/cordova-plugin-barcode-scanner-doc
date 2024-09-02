@@ -19,3 +19,10 @@ npm install ../cordova-plugin-barcode-scanner
 ```
 
 ![img](/public/images/android.png)
+
+
+### 修改 Xcode Info.plist
+
+在 Info.plist 里添加 `NSCameraUsageDescription` 健值和你的描述内容
+
+![img](/public/images/xcode-1.png)
