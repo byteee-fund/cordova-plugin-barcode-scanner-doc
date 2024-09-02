@@ -26,6 +26,18 @@ English | [中文](README_zh.md)
 - ✅ Cordova
 - ✅ Ionic/Capacitor
 
+## Support Formats
+
+| 1D product            | 1D industrial | 2D             |
+|:----------------------|:--------------|:---------------|
+| UPC-A                 | Code 39       | QR Code        |
+| UPC-E                 | Code 93       | Data Matrix    |
+| EAN-8                 | Code 128      | Aztec          |
+| EAN-13                | Codabar       | PDF 417        |
+| UPC/EAN Extension 2/5 | ITF           | MaxiCode       |
+|                       |               | RSS-14         |
+|                       |               | RSS-Expanded   |
+
 ## License
 
 Apache 2.0
